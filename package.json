@@ -1,0 +1,13 @@
+{
+  "name": "tour-of-heroes",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "live-server --open=src",
+    "tsc": "tsc -p src -w --experimentalDecorators"
+  },
+  "dependencies": {
+    "angular2": "2.0.0-alpha.32",
+    "es6-shim": "0.33.13",
+    "systemjs": "0.19.6"
+  }
+}
